@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m7mdragab74
 - 👀 I’m interested in flutter
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...Work on creating big websites
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on ...Work on creating big app
 - 📫 How to reach me ...mr341349@gmail.com
 
 <!---
