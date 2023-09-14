@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @m7mdragab74
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...Work on creating big app
-- 📫 How to reach me ...mr341349@gmail.com
+-  Hi, I’m flutter developer
+-  How to reach me ...mr341349@gmail.com
 
 <!---
 m7mdragab74/m7mdragab74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
