@@ -33,8 +33,4 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7mdragab74&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
-## 📊 Weekly Development Stats
 
-<p align="left">
-  <img src="https://wakatime.com/share/@mohamedragab/37fa5f30-174a-49e1-beca-55fc70dbb800.png" alt="Weekly Development Stats" />
-</p>
