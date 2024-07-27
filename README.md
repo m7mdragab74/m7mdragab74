@@ -4,33 +4,37 @@
 
 Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently navigating the exciting world of Software Engineering 📚. I love turning ideas into reality using Dart/Flutter.
 
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,github&theme=dark" alt="Tech Stack" />
-</p>
-
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedragab74/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 15px;" />
-  </a>
-  <a href="https://wakatime.com/@mohamedragab" target="_blank">
-    <img src="https://wakatime.com/static/img/wakatime.svg" width="40" height="40" alt="Wakatime" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:mr341349@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100051168195336" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="Facebook" style="margin-right: 15px;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&label=LinkedIn)]( https://www.linkedin.com/in/mohamedragab74/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&label=Email)](mailto:mr341349@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&label=Facebook)](https://www.facebook.com/mohamedragabebrahiem74)
 
-## 🔥 GitHub Stats
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7mdragab74&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
+![Dart](https://skillicons.dev/icons?i=dart&theme=dark&borderRadius=20)
+![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark&borderRadius=20)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark&borderRadius=20)
+
+## 🛠️ Tools
+
+![Figma](https://skillicons.dev/icons?i=figma&theme=dark&borderRadius=20)
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark&borderRadius=20)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark&borderRadius=20)
+![Git](https://skillicons.dev/icons?i=git&theme=dark&borderRadius=20)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark&borderRadius=20)
+
+## ⏰ CodeTime Dashboard
+
+[![wakatime](https://wakatime.com/badge/user/018cc21c-9074-41f8-a352-65edefaa8d15.svg)](https://wakatime.com/@018cc21c-9074-41f8-a352-65edefaa8d15)
+
+## 📊 Github Status
+
+![profile views](https://komarev.com/ghpvc/?username=m7mdragab74)
+
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=m7mdragab74&title=Repositories,Commits,PullRequest&column=-1)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=m7mdragab74&border_radius=7.5&theme=dark)](https://git.io/streak-stats)
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7mdragab74&show_icons=true&theme=dark&rank_icon=percentile)
 
 
