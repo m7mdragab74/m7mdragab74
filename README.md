@@ -35,6 +35,6 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=m7mdragab74&title=Repositories,Commits,PullRequest&column=-1)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=m7mdragab74&border_radius=7.5&theme=dark)](https://git.io/streak-stats)
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7mdragab74&show_icons=true&theme=dark&rank_icon=percentile)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7mdragab74&show_icons=true&theme=dark&rank_icon=percentile)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdragab74&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
