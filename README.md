@@ -14,6 +14,7 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
 
 ![Dart](https://skillicons.dev/icons?i=dart&theme=dark&borderRadius=20)
 ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark&borderRadius=20)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark&borderRadius=20)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark&borderRadius=20)
 
 ## 🛠️ Tools
@@ -23,6 +24,7 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio&theme=dark&borderRadius=20)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&borderRadius=20)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark&borderRadius=20)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark&borderRadius=20)
 
 ## ⏰ CodeTime Dashboard
 
