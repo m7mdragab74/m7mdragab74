@@ -7,7 +7,7 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&label=LinkedIn)]( https://www.linkedin.com/in/mohamedragab74/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&label=Email)](mailto:mr341349@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&label=Email)](mailto:mohamedhamza642023@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&label=Facebook)](https://www.facebook.com/mohamedragabebrahiem74)
 
 ## 💻 Tech Stack
