@@ -2,8 +2,9 @@
 
 # Hi there, I'm mohamed! 👨‍💻
 
-Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently navigating the exciting world of Software Engineering 📚. I love turning ideas into reality using Dart/Flutter.
-
+Welcome to my coding & data space! 🚀
+I started my journey as a Flutter developer, building mobile apps with Dart/Flutter and turning ideas into reality.
+Currently, I’m making a career shift into Data Analysis 📊 — exploring Excel, Power BI, and data visualization to uncover insights and connect business with technology.
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&label=LinkedIn)]( https://www.linkedin.com/in/mohamedragab74/)
